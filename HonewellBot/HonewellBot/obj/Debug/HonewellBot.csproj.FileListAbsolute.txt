@@ -1,0 +1,39 @@
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Bot Application1.dll.config
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Bot Application1.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Bot Application1.pdb
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Autofac.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Chronic.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Newtonsoft.Json.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.Web.Http.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Autofac.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\Newtonsoft.Json.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.Web.Http.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\obj\Debug\HonewellBot.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\obj\Debug\Bot Application1.dll
+C:\Users\Abhishek\Desktop\test\HonewellBot\HonewellBot\obj\Debug\Bot Application1.pdb
