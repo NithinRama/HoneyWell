@@ -33,3 +33,7 @@ PS: Prerequisite - Android Studio has to be installed on the machine.
 Instructions to run the Bot:
 
 Open the Bot application in Visual Studio 2015 and go to Handlers/Constants.cs and change Ip string to the ip of the server where you hosted our node server. Install Bot emulator from https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html#emulator and test it!
+
+Desktop App : 
+
+open the project folder and goto \HoneyWell\bin\Release and run the HoneyWell.exe file to see it in action.
