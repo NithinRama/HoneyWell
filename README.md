@@ -24,6 +24,48 @@ Execute "npm install" on the terminal/cmd.
 Execute "node app" on the terminal/cmd.
 PS: Prerequisite - node.js has to be installed on the host machine.
 
+#Server DUMP
+<code>
+CREATE TABLE Location(
+    id int(11) AUTO_INCREMENT PRIMARY KEY,
+    name varchar(128),
+    routerMac varchar(128)  
+);
+
+
+CREATE TABLE DetailsMobile(
+    id int(11) AUTO_INCREMENT PRIMARY KEY,
+    name varchar(128),
+    email varchar(128),
+    imei varchar(128) UNIQUE,
+    location1 int(11),
+    time1 datetime,
+    location2 int(11),
+    time2 datetime,
+    location3 int(11),
+    time3 datetime,
+    FOREIGN KEY (location1) REFERENCES Location (id),
+    FOREIGN KEY (location2) REFERENCES Location (id),
+    FOREIGN KEY (location3) REFERENCES Location (id)
+);
+
+CREATE TABLE DetailsLaptop(
+    id int(11) AUTO_INCREMENT PRIMARY KEY,
+    name varchar(128),
+    email varchar(128),
+    deviceMac varchar(128) UNIQUE,
+    location1 int(11),
+    time1 datetime,
+    location2 int(11),
+    time2 datetime,
+    location3 int(11),
+    time3 datetime,
+    FOREIGN KEY (location1) REFERENCES Location (id),
+    FOREIGN KEY (location2) REFERENCES Location (id),
+    FOREIGN KEY (location3) REFERENCES Location (id)
+);
+</code>
+
 Instructions to run the Android Application:
 
 Open HONEYWELL\app\src\main\java\com\example\nithinrama\honeywell\constants.java in Android studio and change the ip address to the ip address on which your running the NodeJs server. Then connect the phone and run the code on Android studio.
